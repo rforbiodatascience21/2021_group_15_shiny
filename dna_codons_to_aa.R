@@ -1,4 +1,3 @@
-
 dna_codons_to_aa <- function(codons){
   std_code_table <- c("TTT" = "F", "TCT" = "S", "TAT" = "Y", "TGT" = "C",
                       "TTC" = "F", "TCC" = "S", "TAC" = "Y", "TGC" = "C",
