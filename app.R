@@ -1,5 +1,6 @@
 library(shiny)
 library(shinythemes)
+library(tidyverse)
 
 source("random_dna.R")
 source("mk_codons.R")
