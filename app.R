@@ -6,6 +6,7 @@ source("random_dna.R")
 source("mk_codons.R")
 source("dna_codons_to_aa.R")
 source("complement.R")
+source("check_if_dna.R")
 
 ui <- fluidPage(theme = shinytheme("superhero"),
                 
